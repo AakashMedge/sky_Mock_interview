@@ -1,4 +1,4 @@
-import { interviewCovers, mappings } from "@/constants";
+import { interviewCovers, mappings } from "@/constants"; // Corrected import statement
 import { clsx, type ClassValue } from "clsx";
 import { twMerge } from "tailwind-merge";
 
